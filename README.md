@@ -22,6 +22,8 @@ This is a list of resources about women and minorities in tech and was originall
 
 [Brave, Not Perfect: Fear Less, Fail More, and Live Bolder](https://www.amazon.com/Brave-Not-Perfect-Fear-Bolder/dp/1524762334/) by Resha Saujani (founder of [Girls Who Code](https://girlswhocode.com/))
 
+[Women Who Dared: 52 Stories of Fearless Daredevils, Adventurers, and Rebels](https://www.amazon.com/gp/product/1492653276) by Linda Skeers
+
 # Movies
 
 [Hidden Figures](https://www.amazon.com/Hidden-Figures-Taraji-P-Henson/dp/B01MS4V81A)
