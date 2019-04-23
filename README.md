@@ -98,6 +98,8 @@ US News [9 College Scholarships for Women in STEM](https://www.usnews.com/news/b
   * [Houston chapter](https://www.meetup.com/Houston_PyLadies/)
   * [Austin chapter](https://www.meetup.com/PyLadies-ATX/)
 
+[Women Who Code](https://www.womenwhocode.com/)
+
 # Podcasts
 
 [Fixing Tech's Gender Gap](https://hbr.org/ideacast/2019/02/fixing-techs-gender-gap)
