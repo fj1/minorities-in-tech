@@ -54,6 +54,11 @@ Women in STEM [2018 Advent Calendar](https://findingada.com/blog/2018/12/01/wome
 
 [Grace Hopper Celebration](https://ghc.anitab.org/)
 
+[Girls Coding Club, Houston](https://www.meetup.com/Girls-Coding-Club/)
+
+[AbitaB.org Local](https://community.anitab.org/groups/)
+  * [Houston chapter](https://community.anitab.org/groups/houston/)
+
 # Scholarships
 
 Ask your college/university of choice if they offer scholarships for women or minorities in tech
@@ -79,6 +84,8 @@ US News [9 College Scholarships for Women in STEM](https://www.usnews.com/news/b
 [Girls in Tech](http://girlsintech.org/)
 
 [AnitaB.org](https://anitab.org/)
+  * [AbitaB.org Local](https://community.anitab.org/groups/)
+  * [Houston chapter](https://community.anitab.org/groups/houston/)
 
 [Code.org](https://code.org/)
 
@@ -86,6 +93,10 @@ US News [9 College Scholarships for Women in STEM](https://www.usnews.com/news/b
 
 [Girl Develop It](https://www.girldevelopit.com/)
   * [Houston chapter](https://www.girldevelopit.com/chapters/houston)
+
+[PyLadies](https://www.pyladies.com/) for those interested in the Python programming language
+  * [Houston chapter](https://www.meetup.com/Houston_PyLadies/)
+  * [Austin chapter](https://www.meetup.com/PyLadies-ATX/)
 
 # Podcasts
 
