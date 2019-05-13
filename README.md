@@ -100,6 +100,8 @@ US News [9 College Scholarships for Women in STEM](https://www.usnews.com/news/b
 
 [Women Who Code](https://www.womenwhocode.com/)
 
+University of Houston [CSGirls](https://csgirls.org/)
+
 # Podcasts
 
 [Fixing Tech's Gender Gap](https://hbr.org/ideacast/2019/02/fixing-techs-gender-gap)
