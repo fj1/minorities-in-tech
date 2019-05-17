@@ -99,6 +99,7 @@ US News [9 College Scholarships for Women in STEM](https://www.usnews.com/news/b
   * [Austin chapter](https://www.meetup.com/PyLadies-ATX/)
 
 [Women Who Code](https://www.womenwhocode.com/)
+  * They have a good newsletter that includes a job board, ticket giveaways, upcoming conferences, and more.
 
 University of Houston [CSGirls](https://csgirls.org/)
 
