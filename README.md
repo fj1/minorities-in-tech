@@ -108,3 +108,7 @@ University of Houston [CSGirls](https://csgirls.org/)
 # Podcasts
 
 [Fixing Tech's Gender Gap](https://hbr.org/ideacast/2019/02/fixing-techs-gender-gap)
+
+# Other
+
+Check out the [Redefining Women Icon Collection](https://thenounproject.com/Iconathon1/collection/redefining-women/) thanks to the [Noun Project](https://blog.thenounproject.com/the-redefining-women-icon-collection-e18e1c4229c7).
