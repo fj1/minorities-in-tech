@@ -77,6 +77,8 @@ US News [9 College Scholarships for Women in STEM](https://www.usnews.com/news/b
 
 [Black Boys Code](http://www.blackgirlscode.com/black-boys-code.html)
 
+[Deaf Kids Code](https://www.deafkidscode.org/)
+
 [National Center for Women & Information Technology (NCWIT)](https://www.ncwit.org/)
 
 [Women in Technology International (WITI)](https://www.witi.com/)
