@@ -59,6 +59,8 @@ Women in STEM [2018 Advent Calendar](https://findingada.com/blog/2018/12/01/wome
 [AbitaB.org Local](https://community.anitab.org/groups/)
   * [Houston chapter](https://community.anitab.org/groups/houston/)
 
+[blackcomputeHER.org](https://blackcomputeher.org/)
+
 # Scholarships
 
 Ask your college/university of choice if they offer scholarships for women or minorities in tech
