@@ -24,6 +24,8 @@ This is a list of resources about women and minorities in tech and was originall
 
 [Women Who Dared: 52 Stories of Fearless Daredevils, Adventurers, and Rebels](https://www.amazon.com/gp/product/1492653276) by Linda Skeers
 
+[10 Nonfiction Children’s Books That Humanize Mathematics](https://www.kqed.org/mindshift/54983/10-nonfiction-childrens-books-that-humanize-mathematics)
+
 # Movies
 
 [Hidden Figures](https://www.amazon.com/Hidden-Figures-Taraji-P-Henson/dp/B01MS4V81A)
