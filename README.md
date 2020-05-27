@@ -113,6 +113,8 @@ University of Houston [CSGirls](https://csgirls.org/)
 
 [blackcomputeHER.org](https://blackcomputeher.org/)
 
+[Resilient Coders](http://www.resilientcoders.org/) - Boston
+
 # Podcasts
 
 [Fixing Tech's Gender Gap](https://hbr.org/ideacast/2019/02/fixing-techs-gender-gap)
