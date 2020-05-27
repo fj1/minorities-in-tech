@@ -119,6 +119,8 @@ University of Houston [CSGirls](https://csgirls.org/)
 
 [Fixing Tech's Gender Gap](https://hbr.org/ideacast/2019/02/fixing-techs-gender-gap)
 
+[Fierce](https://www.iheart.com/podcast/1119-fierce-31140164/) - Stories of Women Who Changed the World
+
 # Other
 
 Check out the [Redefining Women Icon Collection](https://thenounproject.com/Iconathon1/collection/redefining-women/) thanks to the [Noun Project](https://blog.thenounproject.com/the-redefining-women-icon-collection-e18e1c4229c7).
