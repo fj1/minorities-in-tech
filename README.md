@@ -58,7 +58,7 @@ Women in STEM [2018 Advent Calendar](https://findingada.com/blog/2018/12/01/wome
 
 [Girls Coding Club, Houston](https://www.meetup.com/Girls-Coding-Club/)
 
-[AbitaB.org Local](https://community.anitab.org/groups/)
+[AnitaB.org Local](https://community.anitab.org/groups/)
   * [Houston chapter](https://community.anitab.org/groups/houston/)
 
 [blackcomputeHER.org](https://blackcomputeher.org/)
@@ -90,7 +90,7 @@ US News [9 College Scholarships for Women in STEM](https://www.usnews.com/news/b
 [Girls in Tech](http://girlsintech.org/)
 
 [AnitaB.org](https://anitab.org/)
-  * [AbitaB.org Local](https://community.anitab.org/groups/)
+  * [AnitaB.org Local](https://community.anitab.org/groups/)
   * [Houston chapter](https://community.anitab.org/groups/houston/)
 
 [Code.org](https://code.org/)
