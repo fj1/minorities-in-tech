@@ -26,6 +26,12 @@ This is a list of resources about women and minorities in tech and was originall
 
 [10 Nonfiction Children’s Books That Humanize Mathematics](https://www.kqed.org/mindshift/54983/10-nonfiction-childrens-books-that-humanize-mathematics)
 
+Good Night Stories for Rebel Girls series
+- [100 Tales of Extraordinary Women](https://www.amazon.com/gp/product/0997895810)
+- [Goodnight Stories for Rebel Girls Volume 2](https://www.amazon.com/gp/product/0997895829)
+- [100 Immigrant Women Who Changed the World](https://www.amazon.com/gp/product/1733329293)
+- [100 Real-Life Tales of Black Girl Magic](https://www.amazon.com/gp/product/195342404X)
+
 # Movies
 
 [Hidden Figures](https://www.amazon.com/Hidden-Figures-Taraji-P-Henson/dp/B01MS4V81A)
